@@ -1,4 +1,4 @@
-# termsPRIVACY NOTICE
+# PRIVACY NOTICE
 
  
 
