@@ -1,5 +1,5 @@
 
-## Privacy Notice
+## PRIVACY NOTICE
 
  
 
