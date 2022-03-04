@@ -31,7 +31,7 @@ Please read this privacy notice carefully, as it will help you understand what w
 
  
 
- 1. WHAT INFORMATION DO WE COLLECT?
+ 1. [WHAT INFORMATION DO WE COLLECT?](#what-information-do-collect?) 
 
  2. HOW DO WE USE YOUR INFORMATION?
 
