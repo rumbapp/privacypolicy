@@ -1,8 +1,4 @@
 
-## PRIVACY NOTICE
-
- 
-
 ### Last updated August 24, 2021
 
  
