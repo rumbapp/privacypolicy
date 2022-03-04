@@ -2,7 +2,7 @@
 
  
 
-Last updated August 24, 2021
+### Last updated August 24, 2021
 
  
 
@@ -30,7 +30,7 @@ Please read this privacy notice carefully, as it will help you understand what w
 
  
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
  
 
@@ -64,7 +64,7 @@ TABLE OF CONTENTS
 
  
 
-1. WHAT INFORMATION DO WE COLLECT?
+### 1. WHAT INFORMATION DO WE COLLECT?
 
 
 Personal information you disclose to us
@@ -127,7 +127,7 @@ This information is primarily needed to maintain the security and operation of o
 
  
 
-2. HOW DO WE USE YOUR INFORMATION?
+### 2. HOW DO WE USE YOUR INFORMATION?
 
  
 
@@ -166,7 +166,7 @@ To send you marketing and promotional communications. We and/or our third-party 
 Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
  
 
-3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+### 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
  
 
@@ -189,7 +189,7 @@ Vendors, Consultants and Other Third-Party Service Providers. We may share your 
 Offer Wall. Our App may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our App and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our App. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward. Please note that we do not control third-party websites and have no responsibility in relation to the content of such websites. The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website, please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of those websites.
  
 
-4. WHO WILL YOUR INFORMATION BE SHARED WITH?
+### 4. WHO WILL YOUR INFORMATION BE SHARED WITH?
 
  
 
@@ -202,7 +202,7 @@ We only share and disclose your information with the following categories of thi
 Data Analytics Services
  
 
-5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+### 5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
  
 
@@ -214,7 +214,7 @@ We may use cookies and similar tracking technologies (like web beacons and pixel
 
  
 
-6. HOW LONG DO WE KEEP YOUR INFORMATION?
+### 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
  
 
@@ -230,7 +230,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
  
 
-7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+### 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
  
 
@@ -242,7 +242,7 @@ We have implemented appropriate technical and organizational security measures d
 
  
 
-8. DO WE COLLECT INFORMATION FROM MINORS?
+### 8. DO WE COLLECT INFORMATION FROM MINORS?
 
  
 
@@ -254,7 +254,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
  
 
-9. WHAT ARE YOUR PRIVACY RIGHTS?
+### 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
  
 
@@ -289,7 +289,7 @@ Access your account settings and update your preferences.
 Contact us using the contact information provided.
  
 
-10. CONTROLS FOR DO-NOT-TRACK FEATURES
+### 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
  
 
@@ -297,7 +297,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
  
 
-11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+### 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
  
 
